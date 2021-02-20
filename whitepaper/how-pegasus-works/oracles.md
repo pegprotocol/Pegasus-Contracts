@@ -14,7 +14,7 @@ contract BNBPriceContract is UsingPegasus {
   //This Contract now has access to all the functions on PegasusProtocol
 
   uint256 bnbPrice;
-  uint256 bnbRequetId = 1;
+  uint256 bnbRequestId = 1;
 
   constructor(address payable _pegasusAddress) UsingPegasus(_pegasusAddress) public {}
 
@@ -23,7 +23,7 @@ contract BNBPriceContract is UsingPegasus {
     uint _timestamp;
     uint _value;
 
-    (_didGet, bnbPrice, _timestamp) = getCurrentValue(bnbRequetId);
+    (_didGet, bnbPrice, _timestamp) = getCurrentValue(bnbRequestId);
   }
 }
 ```
