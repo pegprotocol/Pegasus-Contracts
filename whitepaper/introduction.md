@@ -8,7 +8,7 @@ description: >-
 # Introduction
 
 _**Pegasus Token**_  
-Pegasus at its core is a fork of the popular decentralized finance rebase projects such as Ampleforth & Ditto Money which use the elastic supply model. We plan introduce liquidity staking in the future for the usage of our tools on the Binance Smart Chain.
+Pegasus at its core is a fork of the popular decentralized finance rebase projects such as Ampleforth & Ditto Money which use the elastic supply model. We plan to introduce liquidity staking in the future for the usage of our tools on the Binance Smart Chain.
 
 _**What is a rebase?**_  
 The goal of Pegasus is to maintain a stable price of around $1. To achieve this there are daily supply adjustments called “Rebases”. Rebases are done in such a way that users’ proportional holdings aren’t diluted: A rebase changes every wallet balance by the same amount while also instantly increasing or decreasing the token price on decentralized exchanges.
