@@ -5,7 +5,7 @@
 **Launch Pegasus Mainnet**
 
 * **Pegasus** initial rebase token launched
-* **Simple tools** will be released and users can win PEG tokens rewards by providing feedback
+* **Simple tools** will be released and users can earn PEG token rewards by providing feedback
 * Creating more **strategic partners**
 
 ## 🚩 2021Q2 <a id="2021q2"></a>
