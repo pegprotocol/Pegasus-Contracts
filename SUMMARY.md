@@ -11,3 +11,7 @@
   * [Oracles](whitepaper/how-pegasus-works/oracles.md)
 * [Roadmap](whitepaper/roadmap.md)
 
+---
+
+* [Tokenomics](tokenomics.md)
+
