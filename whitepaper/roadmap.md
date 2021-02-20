@@ -5,6 +5,7 @@
 **Launch Pegasus Mainnet**
 
 * **Pegasus** initial rebase token launched
+* **Staking** will be released immediately after the sale
 * **Simple tools** will be released and users can earn PEG token rewards by providing feedback
 * Creating more **strategic partners**
 
