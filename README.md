@@ -1,4 +1,4 @@
-# 👋 Welcome To Pegasus
+# Welcome To Pegasus
 
 Pegasus is an elastic supply token at its core, offering a governance model for users to vote on tools to either be created or forked from other existing ecosystems onto the Binance Smart Chain. Some examples of our tools include forks of Tornado cash, PNL \(profit & loss\) dashboards, price oracles & more. 
 

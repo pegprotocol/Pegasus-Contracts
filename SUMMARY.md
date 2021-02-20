@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome To Pegasus](README.md)
+* [Welcome To Pegasus](README.md)
 
 ## Whitepaper
 
