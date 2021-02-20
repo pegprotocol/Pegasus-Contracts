@@ -24,5 +24,5 @@ The total PEG token circulation is 2,000,000. Token distribution is as follows:
 
 10% - Will be provided to developers and for future marketing of the pegasus protocol
 
-5% - Team: will be locked for 2 years and will be released every quarter. Team vesting will start from the second quarter after the listing
+5% - Team: will be locked for 2 years and 25% of the tokens will be released every quarter. Team vesting will start from the quarter after the listing.
 
