@@ -6,7 +6,7 @@ What happens when there aren't enough oracles? Without enough oracles data can b
 
 We believe that by expanding the network of decentralized oracles smart contracts and dapps in the future running on the binance smart chain will be much more stable & secure. Below is an example of how you will be able to implement our oracle interface in your source code.
 
-Implementing future Pegasus dynamic price oracles:
+Example Implementing future Pegasus dynamic price oracle for BNB:
 
 ```text
 contract BNBPriceContract is UsingPegasus {
