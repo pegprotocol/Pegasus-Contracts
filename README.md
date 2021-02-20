@@ -4,7 +4,7 @@ Pegasus is an elastic supply token at its core, offering a governance model for 
 
 We are a community run project that are governed by vote of the community for all major changes to the protocol. Business strategy and overall development is ultimately decided on by our developers and team.  
   
-There are a few core products of the Pegasus ecosystem:
+The Pegasus ecosystem will focus on the following core products:
 
 * Ethereum Project Forks 
 * PNL UI & Dashboards
