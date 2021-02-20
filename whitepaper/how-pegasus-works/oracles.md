@@ -9,21 +9,21 @@ We believe that by expanding the network of decentralized oracles smart contract
 Implementing future Pegasus dynamic price oracles:
 
 ```text
-contract BtcPriceContract is UsingPegasus {
+contract BNBPriceContract is UsingPegasus {
 
-  //This Contract now have access to all functions on PegasusProtocol
+  //This Contract now has access to all the functions on PegasusProtocol
 
-  uint256 btcPrice;
-  uint256 btcRequetId = 1;
+  uint256 bnbPrice;
+  uint256 bnbRequetId = 1;
 
   constructor(address payable _pegasusAddress) UsingPegasus(_pegasusAddress) public {}
 
-  function setBtcPrice() public {
+  function setBNBPrice() public {
     bool _didGet;
     uint _timestamp;
     uint _value;
 
-    (_didGet, btcPrice, _timestamp) = getCurrentValue(btcRequetId);
+    (_didGet, bnbPrice, _timestamp) = getCurrentValue(bnbRequetId);
   }
 }
 ```
