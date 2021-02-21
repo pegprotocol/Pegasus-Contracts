@@ -18,11 +18,11 @@ Crowd Sale:
 
 The total PEG token circulation is 2,000,000. Token distribution is as follows:
 
-70% - sold upon crowd sale. Proceeds of up to $120,000 will be locked for liqduitity
+70% - sold upon crowd sale. Proceeds of up to $120,000 will be locked for liquidity
 
 15% - Ecosystem Fund: will be used for future rewards and governance compliance for the community
 
-10% - Will be provided to developers and for future marketing of the pegasus protocol
+10% - Will be provided to developers and for future marketing of the Pegasus Protocol
 
 5% - Team: will be locked for 2 years and 25% of the tokens will be released every quarter. Team vesting will start from the quarter after the listing.
 
